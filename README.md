@@ -1,6 +1,6 @@
 # yes_no_app
 
-Codigo de uno de los ejercicios del curso de Fernando Herrera
+Código de uno de los ejercícios del curso de Fernando Herrera
 
 ## Getting Started
 
