@@ -1,6 +1,6 @@
 # yes_no_app
 
-A new Flutter project.
+Codigo de uno de los ejercicios del curso de Fernando Herrera
 
 ## Getting Started
 
